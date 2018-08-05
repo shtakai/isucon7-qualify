@@ -1,6 +1,8 @@
 ISUCON7 予選問題
 ====
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/isucon7-qualify.svg)](https://www.guardrails.io)
+
 [予選マニュアル](https://gist.github.com/941/8c64842b71995a2d448315e2594f62c2)
 
 ## 感想戦用、1VMでの動かし方
